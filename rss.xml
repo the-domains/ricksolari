@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[RickSolari]]></title>
-        <description><![CDATA[RickSolari]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[NEW Things]]></title>
+        <description><![CDATA[NEW Things]]></description>
+        <link>https://thegrid.ai/ricksolari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 20:01:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 20:07:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ricksolari/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f5486ab-94da-4f78-94aa-fde4263cafe7.jpg">]]></description>
+            <link>https://thegrid.ai/ricksolari/7514cf6b-6315-4040-886e-dd8785c18cf3/index.html</link>
+            <guid isPermaLink="false">7514cf6b-6315-4040-886e-dd8785c18cf3</guid>
+            <pubDate>Thu, 10 Mar 2016 20:07:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/98ab6b41-dc01-4f05-8686-e3802c3059ed.jpg">]]></description>
-            <link>undefinedf5b3790b-851d-4403-a03a-e10d60a71ccf/index.html</link>
+            <link>https://thegrid.ai/ricksolari/f5b3790b-851d-4403-a03a-e10d60a71ccf/index.html</link>
             <guid isPermaLink="false">f5b3790b-851d-4403-a03a-e10d60a71ccf</guid>
             <pubDate>Thu, 10 Mar 2016 20:01:08 GMT</pubDate>
         </item>
